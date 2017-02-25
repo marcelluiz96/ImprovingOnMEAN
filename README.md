@@ -1,2 +1,2 @@
 # ImprovingOnMEAN
-Personal project to improve on MEAN (MongoDB, ExpressJS, AngularJS and NodeJS)
+Personal project to improve on MEAN (MongoDB, Express, AngularJS and NodeJS)
